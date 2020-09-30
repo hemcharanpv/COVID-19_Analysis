@@ -1,7 +1,7 @@
 # Project_4
-To estimate the recovery time of a person who tests positive for  COVID-19
+This project intends to create a report about severity of COVID19 in India
 
-All the data preprocessing has been done assuming some assumptions
+All the data preprocessing has been done with some assumptions
 
 The folder GitHub contains raw data which clone from the website "www.covid19india.org"
 
