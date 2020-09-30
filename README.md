@@ -7,4 +7,4 @@ The folder GitHub contains raw data which clone from the website "www.covid19ind
 
 This project is still in Data Pre-processing Stage. 
 
-# Not Yet Completed
+# I AM NOT DONE YET
